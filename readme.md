@@ -44,6 +44,7 @@ JSON Data Set:
 			style: "Optional, some browsers ignore option styles" }
 	]
 )
+</pre>
 
 Disclaimer
 ----
